@@ -1,4 +1,4 @@
-# 
+# Atualizado JetBrains WebStorm plugins para Mac OS | Inteligente JetBrains WebStorm plugins para PC Windows. Com backup e restauração e suporte multilinguagem — otimizado para máximo desempenho em cada plataforma.
 
 
 
